@@ -16,7 +16,7 @@
  * 24/08/2021
  * Pedro Vilaça - reverser@put.as - https://reverse.put.as
  *
- * Public domain code, do whatever you want, just give credits if you any of this :P
+ * Public domain code, do whatever you want, just give credits if you use any of this :P
  *
  * Greets to:
  * - CIA: can I haz a mug? Those wiki entries are enough, no?

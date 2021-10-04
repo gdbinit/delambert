@@ -6,7 +6,7 @@ af7c395426649c57e44eac0bb6c6a109ac649763065ff5b2b23db71839bac655
 24/08/2021  
 Pedro Vilaça - reverser@put.as - https://reverse.put.as
 
-Public domain code, do whatever you want, just give credits if you any of this :P
+Public domain code, do whatever you want, just give credits if you use any of this :P
 
 Build:
 
